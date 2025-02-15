@@ -15,10 +15,10 @@ This project applies **advanced data engineering techniques** using **Azure Data
 ## 📂 Repository Structure
 ```
 📂 databricks-f1-project
-│── 📒 notebooks/                 # Databricks Notebooks (PySpark & SQL)
-│── 📊 powerbi_reports/           # Power BI Dashboards
+│── 📒 notebooks/                # Databricks Notebooks (PySpark & SQL)
+│── 📊 powerbi_report/           # Power BI Dashboards
 │── 🗃️ datasets/                 # Sample data files (CSV, Parquet, etc.)
-│── 📝 docs/                      # Documentation & setup guide
+│── 📝 diagram/                  # Project architecture diagram
 │── 📜 README.md                 # Project overview
 ```
 
