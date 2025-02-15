@@ -25,7 +25,7 @@ This project applies **advanced data engineering techniques** using **Azure Data
 ## 🔧 Getting Started
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/databricks-f1-project.git
+git clone https://github.com/your-username/databricks-project-f1.git
 ```
 
 ### 2️⃣ Import Notebooks into Databricks
